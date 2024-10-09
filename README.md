@@ -2,11 +2,11 @@
  
 * How To Install
 
-1. Download the .zip
-
-2. Extract the file
-
-3. Run the .exe file
+   1. Download the .zip
+   
+   2. Extract the file
+   
+   3. Run the .exe file
 
 
 * How To Play
