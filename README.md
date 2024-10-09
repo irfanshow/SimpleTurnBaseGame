@@ -7,11 +7,11 @@ Extract the file
 Run the .exe file
 
 
-How To Play
+* How To Play
 
 ATK and DEF status shown under the health bar.
 
-* Pick an Action:
+Pick an Action:
 
 Attack : Deal damage to unit.
 Defend : Reduce incoming damage.
